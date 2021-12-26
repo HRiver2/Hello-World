@@ -19,5 +19,5 @@ template<typename T> inline void read(T &x) {
 }
 
 int main(){
-    cout<<"F**k CCF\n";
+    cout<<"I Love CCF";
 }
